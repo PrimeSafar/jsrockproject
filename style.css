@@ -1,0 +1,102 @@
+#Rock
+{
+    background-color: cornflowerblue;
+    color:rgb(255, 217, 5);
+    font-size: large;
+    border-radius: 7px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+    
+}
+#Paper
+{
+    background-color: cornflowerblue;
+    color:rgb(255, 217, 5);
+    font-size: large;
+    border-radius: 7px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Scissors
+{
+    background-color: cornflowerblue;
+    color:rgb(255, 217, 5);
+    font-size: large;
+    border-radius: 7px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Rock:hover
+{
+    background-color: rgb(255, 217, 5);
+    color: cornflowerblue;
+}
+#Paper:hover
+{
+    background-color: rgb(255, 217, 5);
+    color: cornflowerblue;
+}
+#Scissors:hover
+{
+    background-color: rgb(255, 217, 5);
+    color: cornflowerblue;
+}
+
+#computerChoice
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 70px;
+    
+}
+#HumanChoice
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+#result
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+}
+#score
+{
+
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+}
+.game
+{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+   
+}
+*{
+    text-align: center;
+    
+}
